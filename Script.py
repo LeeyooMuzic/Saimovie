@@ -14,8 +14,6 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ʜᴀᴍᴋᴇʀᴄᴀᴛ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/imHamkerCat>𝐇𝐀𝐌𝐊𝐄𝐑𝐂𝐀𝐓-𝐁𝐎𝐓</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/imHamkerCat>ᴍʀ.ʜᴀᴍᴋᴇʀ ᴄᴀᴛ</a></b>"""
 
