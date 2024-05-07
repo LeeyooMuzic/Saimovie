@@ -137,7 +137,6 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://t.me/new_heroku_cc"
 __version__ = "HAMKERCAT-BOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present Mrgroot <https://t.me/GrootMovieMax>"
