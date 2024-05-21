@@ -1,2 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Leeyoomuzic/saimovie)
-
+[ㅤㅤ](https://heroku.com/deploy?template=https://github.com/Leeyoomuzic/saimovie2)
