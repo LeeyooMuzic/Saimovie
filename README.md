@@ -1,1 +1,1 @@
-[ㅤㅤ](https://heroku.com/deploy?template=https://github.com/Leeyoomuzic/saimovie2)
+[ㅤㅤ](https://heroku.com/deploy?template=https://github.com/Leeyoomuzic/saimovie)
