@@ -137,7 +137,7 @@
         "PMFILTER": {
             "description": "PM AutoFilter. set True to on / False to off",
             "value": "False",
-            "required": True
+            "required": false
         },
         "G_FILTER": {
             "description": "GlobalFilter set True to on / False to off",
