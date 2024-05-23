@@ -96,7 +96,7 @@
         }, 
         "IMDB_DELET_TIME": {
             "description": "bot result auto delete time in second do to avoid group copyright issue. default is 300 ",
-            "value": "240",
+            "value": "180",
             "required": false  
         },
         "SINGLE_BUTTON": {
@@ -136,8 +136,8 @@
         },
         "PMFILTER": {
             "description": "PM AutoFilter. set True to on / False to off",
-            "value": "True",
-            "required": false
+            "value": "False",
+            "required": True
         },
         "G_FILTER": {
             "description": "GlobalFilter set True to on / False to off",
